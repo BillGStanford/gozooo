@@ -1,0 +1,10 @@
+[
+  { "slug": "politics", "name": { "en": "Politics", "am": "ፖለቲካ" }, "description": { "en": "State power, party analysis, and governance.", "am": "የመንግስት ስልጣን፣ የፓርቲ ትንተና እና አስተዳደር።" }, "color": "#CC0000" },
+  { "slug": "economy", "name": { "en": "Economy", "am": "ኢኮኖሚ" }, "description": { "en": "Production, planning, trade, and economic sovereignty.", "am": "ምርት፣ እቅድ፣ ንግድ እና የኢኮኖሚ ሉዓላዊነት።" }, "color": "#B8860B" },
+  { "slug": "workers", "name": { "en": "Workers", "am": "ሠራተኞች" }, "description": { "en": "Labor organizing, unions, and workplace struggle.", "am": "የሠራተኛ ማደራጀት፣ ማህበራት እና የስራ ቦታ ትግል።" }, "color": "#CC0000" },
+  { "slug": "international", "name": { "en": "International", "am": "ዓለም አቀፍ" }, "description": { "en": "Global anti-imperialist and diplomatic coverage.", "am": "ዓለም አቀፍ ፀረ-ኢምፔሪያሊዝም እና ዲፕሎማሲያዊ ሽፋን።" }, "color": "#141414" },
+  { "slug": "africa", "name": { "en": "Africa", "am": "አፍሪካ" }, "description": { "en": "Pan-African politics and continental solidarity.", "am": "የፓን-አፍሪካ ፖለቲካ እና አህጉራዊ አንድነት።" }, "color": "#B8860B" },
+  { "slug": "opinion", "name": { "en": "Opinion", "am": "አስተያየት" }, "description": { "en": "Editorial commentary and theoretical analysis.", "am": "ኤዲቶሪያል አስተያየት እና የንድፈ ሃሳብ ትንተና።" }, "color": "#4A4A4A" },
+  { "slug": "editorials", "name": { "en": "Editorials", "am": "ኤዲቶሪያል" }, "description": { "en": "The official position of the editorial collective.", "am": "የኤዲቶሪያል ኮሌክቲቭ ኦፊሴላዊ አቋም።" }, "color": "#141414" },
+  { "slug": "history", "name": { "en": "History", "am": "ታሪክ" }, "description": { "en": "Historical education and revolutionary memory.", "am": "የታሪክ ትምህርት እና አብዮታዊ ትውስታ።" }, "color": "#B8860B" }
+]

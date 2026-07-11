@@ -1,0 +1,46 @@
+{
+  "defaultLanguage": "am",
+  "supportedLanguages": ["am", "en"],
+  "pagination": {
+    "articlesPerPage": 12,
+    "relatedArticleCount": 4,
+    "mostReadCount": 6
+  },
+  "theme": {
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#B8860B",
+      "background": "#F7F5F0",
+      "backgroundDark": "#141414"
+    },
+    "defaultMode": "light"
+  },
+  "breakingNews": {
+    "enabled": true,
+    "maxItems": 5,
+    "tickerSpeedSeconds": 28
+  },
+  "homepage": {
+    "featuredCount": 5,
+    "layout": [
+      "hero",
+      "breakingTicker",
+      "featuredInvestigations",
+      "latestNews",
+      "sectionGrid",
+      "editorsPicks",
+      "mostRead",
+      "recommendedReading",
+      "newsletter"
+    ],
+    "sectionGridCategories": ["politics", "economy", "workers", "international", "africa", "opinion", "history"]
+  },
+  "archive": {
+    "groupBy": "month",
+    "itemsPerPage": 20
+  },
+  "search": {
+    "fields": ["title", "excerpt", "content", "tags", "author", "category"],
+    "highlightEnabled": true
+  }
+}

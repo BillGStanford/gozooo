@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #f7f5f0;
+  }
+  body {
+    @apply bg-paper text-ink antialiased;
+  }
+  html.dark body {
+    @apply bg-ink text-paper;
+  }
+  ::selection {
+    background-color: #cc0000;
+    color: #f7f5f0;
+  }
+  a {
+    text-underline-offset: 3px;
+  }
+  :focus-visible {
+    outline: 2px solid #cc0000;
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  /* Hairline editorial rule, the recurring structural device across the site */
+  .rule {
+    @apply border-t border-ink/15;
+  }
+  .rule-dark {
+    @apply border-t border-paper/20;
+  }
+
+  /* Constructivist diagonal-cut banner used as the site's signature element:
+     a bold angled red field behind section eyebrows and the breaking ticker,
+     echoing the cut-paper propaganda-poster geometry rather than a soft badge. */
+  .cut-banner {
+    position: relative;
+    background: #cc0000;
+    color: #f7f5f0;
+    clip-path: polygon(0 0, 100% 0, 97% 100%, 0% 100%);
+  }
+
+  .eyebrow {
+    @apply font-utility text-xs font-bold uppercase tracking-[0.14em];
+  }
+
+  .section-label {
+    @apply eyebrow inline-flex items-center gap-2 border-b-2 border-revolution pb-1 text-ink;
+  }
+
+  .article-prose {
+    @apply max-w-none font-body-am text-[1.08rem] leading-[1.75] text-ink;
+  }
+  .article-prose[data-lang='en'] {
+    @apply font-body;
+  }
+  .article-prose p {
+    @apply mb-5;
+  }
+  .article-prose h2 {
+    @apply mb-4 mt-10 font-display-am text-2xl font-bold leading-snug text-ink;
+  }
+  .article-prose h3 {
+    @apply mb-3 mt-8 font-display-am text-xl font-bold leading-snug;
+  }
+  .article-prose blockquote,
+  .article-prose .pullquote {
+    @apply my-8 border-l-4 border-revolution pl-5 font-display-am text-xl italic leading-snug text-ink-soft;
+  }
+  .article-prose figure {
+    @apply my-8;
+  }
+  .article-prose figcaption {
+    @apply mt-2 font-utility text-sm text-steel;
+  }
+  .article-prose ul,
+  .article-prose ol {
+    @apply mb-5 ml-6 space-y-2;
+  }
+  .article-prose ul {
+    @apply list-disc;
+  }
+  .article-prose ol {
+    @apply list-decimal;
+  }
+  .article-prose .factbox {
+    @apply my-8 border border-ink/15 bg-concrete/50 p-5;
+  }
+  .article-prose table {
+    @apply my-6 w-full border-collapse text-sm;
+  }
+  .article-prose th,
+  .article-prose td {
+    @apply border border-ink/15 p-2 text-left;
+  }
+
+  .skip-link {
+    @apply absolute left-2 top-2 z-[100] -translate-y-24 bg-ink px-4 py-2 font-utility text-sm text-paper transition-transform focus:translate-y-0;
+  }
+}

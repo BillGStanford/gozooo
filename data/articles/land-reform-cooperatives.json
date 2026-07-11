@@ -1,0 +1,43 @@
+{
+  "id": "art-0003",
+  "slug": "agricultural-cooperatives-land-reform-review",
+  "category": "economy",
+  "tags": ["land-reform", "cooperatives", "agriculture"],
+  "publishedAt": "2026-06-28T08:00:00+03:00",
+  "updatedAt": "2026-06-28T08:00:00+03:00",
+  "featured": false,
+  "breaking": false,
+  "editorsPick": false,
+  "readingTime": 7,
+  "authorId": "editorial-collective",
+  "thumbnail": "/images/articles/cooperatives-thumb.jpg",
+  "coverImage": "/images/articles/cooperatives-cover.jpg",
+  "gallery": [],
+  "video": null,
+  "translations": {
+    "en": {
+      "title": "A Decade of Agricultural Cooperatives: What the Numbers Show",
+      "excerpt": "Ten years after the cooperative expansion program began, yields and member incomes tell an uneven but instructive story.",
+      "content": [
+        { "type": "paragraph", "text": "Cooperative farming structures were expanded a decade ago with the promise of pooled equipment, shared risk, and collective bargaining power against input suppliers." },
+        { "type": "heading", "level": 2, "text": "Where Yields Improved" },
+        { "type": "paragraph", "text": "Regions with strong extension support and reliable irrigation access saw the clearest gains, with member cooperatives reporting sustained yield improvements over private smallholder plots." },
+        { "type": "heading", "level": 2, "text": "Where Gains Stalled" },
+        { "type": "paragraph", "text": "In areas lacking storage and transport infrastructure, cooperative gains in production were frequently erased by post-harvest losses, underlining that land reform alone does not resolve the material conditions of distribution." },
+        { "type": "factbox", "title": "Claims Requiring Verification", "text": "Specific regional yield figures cited in early cooperative program materials should be treated as provisional pending independent agricultural survey data." }
+      ]
+    },
+    "am": {
+      "title": "የአስር ዓመት የግብርና ህብረት ስራ ማህበራት፦ ቁጥሮች የሚያሳዩት ምንድን ነው",
+      "excerpt": "የህብረት ስራ ማህበራት መስፋፋት መርሃ ግብር ከጀመረ ከአስር ዓመታት በኋላ፣ ምርትና የአባላት ገቢ ያልተስተካከለ ግን አስተማሪ ታሪክ ይናገራሉ።",
+      "content": [
+        { "type": "paragraph", "text": "የህብረት ስራ የእርሻ አወቃቀሮች ከአስር ዓመታት በፊት የተስፋፉት የተጋራ መሳሪያ፣ የተጋራ ስጋት እና በግብዓት አቅራቢዎች ላይ የጋራ የድርድር አቅም በሚል ተስፋ ነበር።" },
+        { "type": "heading", "level": 2, "text": "ምርት የተሻሻለበት" },
+        { "type": "paragraph", "text": "ጠንካራ የማስፋፊያ ድጋፍ እና አስተማማኝ የመስኖ አቅርቦት ያላቸው አካባቢዎች ግልጽ የሆነ መሻሻል አሳይተዋል፣ የአባል ህብረት ስራ ማህበራት ከግል አነስተኛ ይዞታ ማሳዎች የተሻለ ዘላቂ የምርት መሻሻል ሪፖርት አድርገዋል።" },
+        { "type": "heading", "level": 2, "text": "መሻሻል ያልታየበት" },
+        { "type": "paragraph", "text": "የማከማቻ እና የመጓጓዣ መሠረተ ልማት በሌላቸው አካባቢዎች፣ በምርት ላይ የታየው የህብረት ስራ ትርፍ ብዙ ጊዜ በድህረ-ምርት ኪሳራ ይሰረዛል፣ ይህም የመሬት ማሻሻያ ብቻውን የስርጭት ቁሳዊ ሁኔታዎችን እንደማይፈታ ያሳያል።" },
+        { "type": "factbox", "title": "ማረጋገጫ የሚያስፈልጋቸው የይገባኛል ጥያቄዎች", "text": "በመጀመሪያዎቹ የህብረት ስራ መርሃ ግብር ማቴሪያሎች ውስጥ የተጠቀሱ የተወሰኑ የክልል ምርት አሃዞች ገለልተኛ የግብርና ጥናት ውሂብ እስኪጠብቁ ድረስ ጊዜያዊ ተደርገው ሊወሰዱ ይገባል።" }
+      ]
+    }
+  }
+}

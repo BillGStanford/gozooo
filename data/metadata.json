@@ -1,0 +1,38 @@
+{
+  "openGraph": {
+    "type": "website",
+    "siteName": { "en": "Workers Journey", "am": "የሰራተኞች ጉዞ" },
+    "locale": { "am": "am_ET", "en": "en_US" },
+    "defaultImage": "/images/og-default.jpg",
+    "imageWidth": 1200,
+    "imageHeight": 630
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@workersjourney",
+    "creator": "@workersjourney"
+  },
+  "organizationSchema": {
+    "@type": "NewsMediaOrganization",
+    "name": "Workers Journey",
+    "alternateName": "የሰራተኞች ጉዞ",
+    "url": "https://workersjourney.example",
+    "logo": "/logos/mark.svg",
+    "sameAs": [
+      "https://facebook.com/workersjourney",
+      "https://x.com/workersjourney",
+      "https://t.me/workersjourney",
+      "https://youtube.com/@workersjourney"
+    ]
+  },
+  "publisher": {
+    "name": "Workers Journey Media Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/logos/mark.svg",
+      "width": 512,
+      "height": 512
+    }
+  },
+  "defaultThumbnail": "/images/og-default.jpg"
+}

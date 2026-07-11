@@ -1,0 +1,51 @@
+{
+  "siteName": {
+    "en": "Workers Journey",
+    "am": "የሰራተኞች ጉዞ"
+  },
+  "tagline": {
+    "en": "The People's Press of Ethiopia",
+    "am": "የኢትዮጵያ የሕዝብ ፕሬስ"
+  },
+  "shortName": {
+    "en": "WJ",
+    "am": "የሰ.ጉ"
+  },
+  "copyright": {
+    "en": "Workers Journey Editorial Collective",
+    "am": "የሰራተኞች ጉዞ ኤዲቶሪያል ኮሌክቲቭ"
+  },
+  "organization": {
+    "en": "Workers Journey Media Organization",
+    "am": "የሰራተኞች ጉዞ ሚዲያ ድርጅት"
+  },
+  "headquarters": [
+    { "city": "Addis Ababa", "city_am": "አዲስ አበባ", "country": "Ethiopia" },
+    { "city": "New York City", "city_am": "ኒው ዮርክ ከተማ", "country": "United States" }
+  ],
+  "email": "pfle-dialogue@proton.me",
+  "logo": {
+    "mark": "/logos/mark.svg",
+    "wordmark_en": "/logos/wordmark-en.svg",
+    "wordmark_am": "/logos/wordmark-am.svg"
+  },
+  "favicon": "/favicon.ico",
+  "defaultOgImage": "/images/og-default.jpg",
+  "seoDefaults": {
+    "titleTemplate": {
+      "en": "%s | Workers Journey",
+      "am": "%s | የሰራተኞች ጉዞ"
+    },
+    "defaultDescription": {
+      "en": "Workers Journey is an independent socialist newsroom covering labor, sovereignty, and African liberation politics from Addis Ababa and beyond.",
+      "am": "የሰራተኞች ጉዞ ስለ ሠራተኛው ትግል፣ ሉዓላዊነት እና የአፍሪካ ነፃነት ፖለቲካ የሚዘግብ ነፃ ሶሻሊስት የዜና ተቋም ነው።"
+    }
+  },
+  "socialHandles": {
+    "twitterSite": "@workersjourney"
+  },
+  "rssTitle": {
+    "en": "Workers Journey — Latest Articles",
+    "am": "የሰራተኞች ጉዞ — የቅርብ ጊዜ ጽሑፎች"
+  }
+}

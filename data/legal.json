@@ -1,0 +1,26 @@
+{
+  "privacy": {
+    "title": { "en": "Privacy Policy", "am": "የግላዊነት ፖሊሲ" },
+    "updated": "2026-07-01",
+    "body": {
+      "en": "Workers Journey is a static publication. We do not operate user accounts, comment systems, or contact forms, and we do not collect personal data through the site beyond standard, privacy-respecting analytics used to understand readership. Any correspondence sent to our editorial email is handled by the editorial collective and is not shared with third parties.",
+      "am": "የሰራተኞች ጉዞ የማይንቀሳቀስ ህትመት ነው። የተጠቃሚ መለያዎችን፣ የአስተያየት ስርዓቶችን ወይም የመገናኛ ቅጾችን አናንቀሳቅስም፣ እንዲሁም ከመደበኛ የግላዊነት አክባሪ ትንታኔ ውጭ በጣቢያው በኩል የግል መረጃ አንሰበስብም። ወደ ኤዲቶሪያል ኢሜይላችን የሚላክ ማንኛውም ደብዳቤ በኤዲቶሪያል ኮሌክቲቭ ይያዛል እናም ለሶስተኛ ወገኖች አይተላለፍም።"
+    }
+  },
+  "terms": {
+    "title": { "en": "Terms of Use", "am": "የአጠቃቀም ውል" },
+    "updated": "2026-07-01",
+    "body": {
+      "en": "Content published on Workers Journey reflects the editorial position of its authors and the editorial collective. Reproduction for educational and organizing purposes is welcomed with attribution. Commercial redistribution requires written permission from the editorial collective.",
+      "am": "በሰራተኞች ጉዞ ላይ የሚታተም ይዘት የደራሲዎቹን እና የኤዲቶሪያል ኮሌክቲቭን አቋም ያንጸባርቃል። ለትምህርታዊ እና ለማደራጃ ዓላማዎች መባዛት ምንጭ በመጥቀስ ይበረታታል። የንግድ ስርጭት ከኤዲቶሪያል ኮሌክቲቭ የጽሁፍ ፈቃድ ይጠይቃል።"
+    }
+  },
+  "editorialStandards": {
+    "title": { "en": "Editorial Standards", "am": "የኤዲቶሪያል መስፈርቶች" },
+    "updated": "2026-07-01",
+    "body": {
+      "en": "Workers Journey writes from an explicit Marxist-Leninist and Pan-Africanist editorial line. We distinguish reporting from analysis and opinion, we correct factual errors publicly, and we credit sources and translations. We do not publish unverified claims presented as confirmed fact.",
+      "am": "የሰራተኞች ጉዞ ግልጽ የሆነ ማርክሲስት-ሌኒኒስት እና ፓን-አፍሪካኒስት የኤዲቶሪያል መስመር ይዞ ይጽፋል። ዘገባን ከትንተና እና ከአስተያየት እንለያለን፣ የሀቅ ስህተቶችን በይፋ እናርማለን፣ እንዲሁም ምንጮችን እና ትርጉሞችን እንጠቅሳለን። ያልተረጋገጡ የይገባኛል ጥያቄዎችን እንደተረጋገጠ ሀቅ አድርገን አናትምም።"
+    }
+  }
+}

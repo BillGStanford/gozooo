@@ -1,0 +1,55 @@
+{
+  "id": "art-0001",
+  "slug": "djibouti-corridor-port-workers-strike",
+  "category": "workers",
+  "tags": ["labor", "logistics", "djibouti-corridor", "strike"],
+  "publishedAt": "2026-07-08T06:30:00+03:00",
+  "updatedAt": "2026-07-10T23:53:00+03:00",
+  "featured": true,
+  "breaking": true,
+  "editorsPick": true,
+  "readingTime": 6,
+  "authorId": "sidoc-haytu",
+  "thumbnail": "/images/articles/port-strike-thumb.jpg",
+  "coverImage": "/images/articles/port-strike-cover.jpg",
+  "gallery": [],
+  "video": null,
+  "translations": {
+    "en": {
+      "title": "Corridor Workers Halt Freight Movement Over Risk Surcharges and Night Safety",
+      "excerpt": "Loading crews along the Addis–Djibouti corridor stopped freight operations this week, demanding hazard pay amid rising regional maritime security risks and firmer workplace safety protocols.",
+      "content": [
+        { "type": "paragraph", "text": "Freight handlers along the Addis Ababa–Djibouti rail and road corridor suspended operations on Monday, the third coordinated stoppage this year, as regional shipping surges put unprecedented pressure on inland logistics." },
+        { "type": "heading", "level": 2, "text": "A Dispute Three Months in the Making" },
+        { "type": "paragraph", "text": "With maritime traffic diverting to Djibouti's deep-sea ports due to widening Gulf and Red Sea security disruptions, workers describe intense labor strain. Ground crews argue that while global shippers enforce strict throughput targets, risk is transferred downward to terminal handlers without proportional compensation or updated safety guarantees." },
+        { "type": "blockquote", "text": "We move the cargo keeping the region's economy afloat during a maritime crisis. We are asking for occupational protections and fair hazard compensation, nothing more.", "attribution": "Corridor loading crew representative" },
+        { "type": "list", "style": "unordered", "items": [
+          "Implementation of a structural hazard bonus tied to increased regional cargo volume",
+          "Mandatory written safety protocols and improved lighting for night-shift container handling",
+          "Immediate inclusion of the regional workers' committee in Tripartite labor safety reviews"
+        ]},
+        { "type": "heading", "level": 2, "text": "What Comes Next" },
+        { "type": "paragraph", "text": "Bilateral oversight talks are scheduled to resume this week. Workers Journey will continue reporting as negotiations develop." },
+        { "type": "factbox", "title": "Corridor Basics", "text": "The Addis Ababa–Djibouti corridor handles over 55% of the region's containerized trade, serving as the definitive economic lifeline for landlocked industrial hubs under escalating supply chain pressure." }
+      ]
+    },
+    "am": {
+      "title": "የኮሪደር ሠራተኞች በአደጋ አበል እና በሌሊት ደህንነት ጥያቄ ምክንያት የጭነት እንቅስቃሴን አቆሙ",
+      "excerpt": "በአዲስ አበባ–ጅቡቲ ኮሪደር የሚሰሩ የመጫኛ ቡድኖች በቀጣናው እየጨመረ ከመጣው የባህር ላይ የደህንነት ስጋት ጋር ተያይዞ የአደጋ ክፍያ እና ጥብቅ የሰራተኞች ደህንነት ፕሮቶኮል በመጠየቅ የጭነት ስራዎችን አቁመዋል።",
+      "content": [
+        { "type": "paragraph", "text": "በአዲስ አበባ–ጅቡቲ የባቡር እና የመንገድ ኮሪደር የሚሰሩ የጭነት ሰራተኞች በቀጣናው የባህር ላይ ትራፊክ መዛባት ምክንያት በየብስ ሎጂስቲክስ ላይ የመጣውን ከፍተኛ ጫና ተከትሎ ሰኞ ዕለት ስራቸውን አቁመዋል፣ ይህም በዚህ ዓመት ሶስተኛው የተቀናጀ የስራ ማቆም ነው።" },
+        { "type": "heading", "level": 2, "text": "የሶስት ወር ክርክር" },
+        { "type": "paragraph", "text": "የቀይ ባህር እና የባህር ሰላጤ መስተጓጎልን ተከትሎ የጭነት መርከቦች ወደ ጅቡቲ ጥልቅ ወደቦች እየዞሩ በመሆኑ፣ ሰራተኞች ከፍተኛ የስራ ጫና እየደረሰባቸው መሆኑን ይገልጻሉ። አደራጆች እንደሚከራከሩት፣ የውጭ ላኪዎች ጠንካራ የምርታማነት ግቦችን ቢጭኑም፣ ተመጣጣኝ ክፍያ ወይም የተሻሻለ የደህንነት ዋስትና ሳይሰጥ ስጋቱ ወደ ታችኛው ሰራተኛ ብቻ እየተላለፈ ነው።" },
+        { "type": "blockquote", "text": "በዚህ የባህር ላይ ቀውስ ወቅት የቀጣናውን ኢኮኖሚ በህይወት የሚያቆየውን ጭነት የምናንቀሳቅሰው እኛ ነን። የምንጠይቀው የስራ ላይ ጥበቃ እና ፍትሃዊ የአደጋ ካሳ ብቻ ነው፣ ከዚያ በላይ አይደለም።", "attribution": "የኮሪደር መጫኛ ቡድን ተወካይ" },
+        { "type": "list", "style": "unordered", "items": [
+          "ከቀጣናዊ የጭነት መጠን መጨመር ጋር የተያያዘ መዋቅራዊ የአደጋ አበል ክፍያ እንዲተገበር",
+          "ለሌሊት ፈረቃ ኮንቴይነር መጫኛ የተጻፈ አስገዳጅ የደህንነት ፕሮቶኮል እና የተሻሻለ መብራት",
+          "የሰራተኞች ኮሚቴ በሶስትዮሽ የስራ ላይ ደህንነት ግምገማዎች ውስጥ በአስቸኳይ እንዲካተት"
+        ]},
+        { "type": "heading", "level": 2, "text": "ቀጣይ ሂደት" },
+        { "type": "paragraph", "text": "የሁለትዮሽ የክትትል ውይይቶች በዚህ ሳምንት እንደገና እንዲጀመሩ ተይዟል። የሰራተኞች ጉዞ ውይይቱ እየገፋ ሲሄድ ዘገባውን ይቀጥላል።" },
+        { "type": "factbox", "title": "ስለ ኮሪደሩ", "text": "የአዲስ አበባ–ጅቡቲ ኮሪደር ከቀጣናው የኮንቴይነር ንግድ ውስጥ ከ55% በላይ የሚይዝ ሲሆን፣ በአቅርቦት ሰንሰለት ጫና ውስጥ ለሚገኙ የየብስ ወደብ አልባ የኢንዱስትሪ ማዕከላት ዋና የኢኮኖሚ መስመር ነው።" }
+      ]
+    }
+  }
+}

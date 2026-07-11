@@ -1,0 +1,45 @@
+{
+  "id": "art-0005",
+  "slug": "our-editorial-line-on-continental-solidarity",
+  "category": "editorials",
+  "tags": ["editorial", "solidarity", "policy"],
+  "publishedAt": "2026-07-05T07:00:00+03:00",
+  "updatedAt": "2026-07-05T07:00:00+03:00",
+  "featured": false,
+  "breaking": false,
+  "editorsPick": true,
+  "readingTime": 5,
+  "authorId": "editorial-collective",
+  "thumbnail": "/images/articles/editorial-thumb.jpg",
+  "coverImage": "/images/articles/editorial-cover.jpg",
+  "gallery": [],
+  "video": null,
+  "translations": {
+    "en": {
+      "title": "Our Editorial Line on Continental Solidarity",
+      "excerpt": "A statement of the positions from which Workers Journey reports and comments on continental affairs.",
+      "content": [
+        { "type": "paragraph", "text": "Workers Journey approaches continental affairs from a position of solidarity rather than spectatorship. This editorial explains what that means in practice for our coverage." },
+        { "type": "list", "style": "unordered", "items": [
+          "We report material conditions before we report declarations",
+          "We name imperialist pressure by its mechanisms, not only its rhetoric",
+          "We distinguish our editorial opinions clearly from our reporting"
+        ]},
+        { "type": "paragraph", "text": "This line will be revisited as conditions change. Readers may write to the editorial collective with questions or objections." }
+      ]
+    },
+    "am": {
+      "title": "ስለ አህጉራዊ አንድነት ያለን የኤዲቶሪያል መስመር",
+      "excerpt": "የሰራተኞች ጉዞ ስለ አህጉራዊ ጉዳዮች የሚዘግብበት እና አስተያየት የሚሰጥበት አቋም መግለጫ።",
+      "content": [
+        { "type": "paragraph", "text": "የሰራተኞች ጉዞ አህጉራዊ ጉዳዮችን ከተመልካችነት ይልቅ ከአንድነት አቋም ይቀርባል። ይህ ኤዲቶሪያል ይህ ማለት ለሽፋናችን በተግባር ምን ማለት እንደሆነ ያብራራል።" },
+        { "type": "list", "style": "unordered", "items": [
+          "ከመግለጫዎች በፊት ቁሳዊ ሁኔታዎችን እንዘግባለን",
+          "የኢምፔሪያሊስት ጫናን በዘዴዎቹ እንጂ በንግግሩ ብቻ አንጠራውም",
+          "የኤዲቶሪያል አስተያየታችንን ከዘገባችን በግልጽ እንለያለን"
+        ]},
+        { "type": "paragraph", "text": "ይህ መስመር ሁኔታዎች ሲቀየሩ እንደገና ይታያል። አንባቢዎች ጥያቄ ወይም ተቃውሞ ካላቸው ለኤዲቶሪያል ኮሌክቲቭ መጻፍ ይችላሉ።" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "primary": [
+    { "label": { "en": "Politics", "am": "ፖለቲካ" }, "href": "/category/politics" },
+    { "label": { "en": "Economy", "am": "ኢኮኖሚ" }, "href": "/category/economy" },
+    { "label": { "en": "Workers", "am": "ሠራተኞች" }, "href": "/category/workers" },
+    { "label": { "en": "International", "am": "ዓለም አቀፍ" }, "href": "/category/international" },
+    { "label": { "en": "Africa", "am": "አፍሪካ" }, "href": "/category/africa" },
+    { "label": { "en": "Opinion", "am": "አስተያየት" }, "href": "/category/opinion" },
+    { "label": { "en": "History", "am": "ታሪክ" }, "href": "/category/history" },
+    { "label": { "en": "Archive", "am": "መዝገብ" }, "href": "/archive" }
+  ],
+  "footerColumns": [
+    {
+      "title": { "en": "Sections", "am": "ክፍሎች" },
+      "links": [
+        { "label": { "en": "Politics", "am": "ፖለቲካ" }, "href": "/category/politics" },
+        { "label": { "en": "Economy", "am": "ኢኮኖሚ" }, "href": "/category/economy" },
+        { "label": { "en": "Workers", "am": "ሠራተኞች" }, "href": "/category/workers" },
+        { "label": { "en": "Editorials", "am": "ኤዲቶሪያል" }, "href": "/category/editorials" }
+      ]
+    },
+    {
+      "title": { "en": "About", "am": "ስለ እኛ" },
+      "links": [
+        { "label": { "en": "Our Authors", "am": "ደራሲዎቻችን" }, "href": "/authors" },
+        { "label": { "en": "Editorial Standards", "am": "የኤዲቶሪያል መስፈርቶች" }, "href": "/legal/editorial-standards" },
+        { "label": { "en": "Contact", "am": "አድራሻ" }, "href": "/contact" }
+      ]
+    },
+    {
+      "title": { "en": "Legal", "am": "ህጋዊ" },
+      "links": [
+        { "label": { "en": "Privacy Policy", "am": "የግላዊነት ፖሊሲ" }, "href": "/legal/privacy" },
+        { "label": { "en": "Terms of Use", "am": "የአጠቃቀም ውል" }, "href": "/legal/terms" }
+      ]
+    }
+  ]
+}

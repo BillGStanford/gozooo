@@ -1,0 +1,57 @@
+{
+  "id": "art-0002",
+  "slug": "confederal-path-to-pan-african-unity",
+  "category": "africa",
+  "tags": ["pan-africanism", "confederation", "sovereignty"],
+  "publishedAt": "2026-07-02T10:00:00+03:00",
+  "updatedAt": "2026-07-02T10:00:00+03:00",
+  "featured": true,
+  "breaking": false,
+  "editorsPick": true,
+  "readingTime": 9,
+  "authorId": "sidoc-haytu",
+  "thumbnail": "/images/articles/pan-african-thumb.jpg",
+  "coverImage": "/images/articles/pan-african-cover.jpg",
+  "gallery": [],
+  "video": null,
+  "translations": {
+    "en": {
+      "title": "Why a Confederal Path Is the Realistic Road to Pan-African Unity",
+      "excerpt": "Continental unity will not arrive as a single founding act. It will be built bilaterally, nucleus by nucleus, before it is built continentally.",
+      "content": [
+        { "type": "paragraph", "text": "Every generation of Pan-Africanist politics has had to answer the same question: unity by decree, or unity by construction? History has been unkind to the first answer." },
+        { "type": "heading", "level": 2, "text": "The Unitary Temptation" },
+        { "type": "paragraph", "text": "A single continental government, declared and imposed from above, has an obvious appeal: it promises to skip the long work of accumulation. But nothing in the record of federations built this way suggests it survives contact with existing state interests." },
+        { "type": "pullquote", "text": "Unity that is declared before it is built rests on nothing when the first crisis arrives." },
+        { "type": "heading", "level": 2, "text": "The Nucleus-First Alternative" },
+        { "type": "paragraph", "text": "A confederal approach begins differently: with a bilateral core between two committed states, deep enough in trade, defense, and party coordination that withdrawal becomes costly rather than symbolic. Only once that nucleus is stable does it expand outward to a third, then a fourth partner." },
+        { "type": "list", "style": "ordered", "items": [
+          "Establish a bilateral nucleus with genuine material interdependence",
+          "Coordinate party-to-party, not only state-to-state",
+          "Expand admission on the nucleus's own terms, not by external timetable",
+          "Preserve internal sovereignty at each stage of expansion"
+        ]},
+        { "type": "paragraph", "text": "This is slower than the unitary declaration. It is also the only version that has historically held." }
+      ]
+    },
+    "am": {
+      "title": "ኮንፌደራላዊ መንገድ ለፓን-አፍሪካ አንድነት እውነተኛ መንገድ የሆነው ለምንድን ነው",
+      "excerpt": "አህጉራዊ አንድነት በአንድ የመስራች ተግባር አይመጣም። ከመላው አህጉር በፊት በሁለትዮሽ፣ ኒውክሊየስ በኒውክሊየስ ይገነባል።",
+      "content": [
+        { "type": "paragraph", "text": "እያንዳንዱ የፓን-አፍሪካኒዝም ፖለቲካ ትውልድ ተመሳሳይ ጥያቄ መመለስ ነበረበት፦ አንድነት በአዋጅ፣ ወይስ አንድነት በግንባታ? ታሪክ ለመጀመሪያው መልስ ደግ አልነበረም።" },
+        { "type": "heading", "level": 2, "text": "የአሃዳዊነት ፈተና" },
+        { "type": "paragraph", "text": "ከላይ የሚታወጅ እና የሚጫን አንድ አህጉራዊ መንግስት ግልጽ ማራኪነት አለው፦ የረጅም ጊዜ ክምችት ስራን ለመዝለል ተስፋ ይሰጣል። ነገር ግን በዚህ መንገድ የተገነቡ ፌዴሬሽኖች ታሪክ ካሉ የመንግስት ጥቅሞች ጋር ሲገናኙ እንደሚተርፉ የሚጠቁም ምንም ነገር የለም።" },
+        { "type": "pullquote", "text": "ከመገንባቱ በፊት የሚታወጅ አንድነት የመጀመሪያው ቀውስ ሲደርስ በምንም ላይ አይቆምም።" },
+        { "type": "heading", "level": 2, "text": "ኒውክሊየስ-መጀመሪያ አማራጭ" },
+        { "type": "paragraph", "text": "ኮንፌደራላዊ አካሄድ በተለየ መንገድ ይጀምራል፦ በንግድ፣ በመከላከያ እና በፓርቲ ቅንጅት ውስጥ ጥልቅ በሆነ በሁለት ቁርጠኛ መንግስታት መካከል ባለ የሁለትዮሽ ማዕከል፣ መውጣት ምሳሌያዊ ሳይሆን ውድ እንዲሆን በሚያደርግ ደረጃ። ያ ኒውክሊየስ ከተረጋጋ በኋላ ብቻ ወደ ሶስተኛ፣ ከዚያም ወደ አራተኛ አጋር ይሰፋል።" },
+        { "type": "list", "style": "ordered", "items": [
+          "እውነተኛ ቁሳዊ መደጋገፍ ያለው የሁለትዮሽ ኒውክሊየስ መመስረት",
+          "ከግዛት-ለ-ግዛት ብቻ ሳይሆን ከፓርቲ-ለ-ፓርቲ ማስተባበር",
+          "በኒውክሊየሱ የራሱ ውሎች እንጂ በውጭ የጊዜ ሰሌዳ አለመስፋት",
+          "በእያንዳንዱ የመስፋፋት ደረጃ ውስጣዊ ሉዓላዊነትን መጠበቅ"
+        ]},
+        { "type": "paragraph", "text": "ይህ ከአሃዳዊ አዋጅ ይልቅ ቀርፋፋ ነው። እንዲሁም በታሪክ የተረጋገጠው ብቸኛው ዓይነት ነው።" }
+      ]
+    }
+  }
+}

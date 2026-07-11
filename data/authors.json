@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sidoc-haytu",
+    "slug": "sidoc-haytu",
+    "name": { "en": "Sidoc Haytu", "am": "ሲዶክ ሃይቱ" },
+    "position": { "en": "Political Columnist", "am": "የፖለቲካ አምደኛ" },
+    "photo": "/images/authors/sidoc-haytu.jpg",
+    "bio": {
+      "en": "Sidoc Haytu writes on Marxist-Leninist theory, Ethiopian revolutionary history, and Pan-African unity strategy.",
+      "am": "ሲዶክ ሃይቱ ስለ ማርክሲስት-ሌኒኒስት ንድፈ ሃሳብ፣ የኢትዮጵያ አብዮታዊ ታሪክ እና የፓን-አፍሪካ አንድነት ስትራቴጂ ይጽፋል።"
+    },
+    "languages": ["am", "en"],
+    "social": {
+      "x": "https://x.com/sidochaytu",
+      "telegram": "https://t.me/sidochaytu"
+    }
+  },
+  {
+    "id": "editorial-collective",
+    "slug": "editorial-collective",
+    "name": { "en": "Editorial Collective", "am": "ኤዲቶሪያል ኮሌክቲቭ" },
+    "position": { "en": "Editorial Board", "am": "ኤዲቶሪያል ቦርድ" },
+    "photo": "/images/authors/editorial-collective.jpg",
+    "bio": {
+      "en": "The collective editorial voice of Workers Journey, representing the publication's official positions.",
+      "am": "የሰራተኞች ጉዞ የጋራ ኤዲቶሪያል ድምጽ፣ የህትመቱን ኦፊሴላዊ አቋም የሚወክል።"
+    },
+    "languages": ["am", "en"],
+    "social": {}
+  }
+]

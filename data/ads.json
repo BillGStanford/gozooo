@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "provider": "google-adsense",
+  "clientEnvVar": "NEXT_PUBLIC_GOOGLE_ADSENSE_CLIENT",
+  "slots": [
+    { "id": "homepage-leaderboard", "placement": "homepage-top", "format": "leaderboard" },
+    { "id": "article-in-content", "placement": "article-body-mid", "format": "in-article" },
+    { "id": "sidebar-rectangle", "placement": "sidebar", "format": "rectangle" }
+  ],
+  "note": "Ad slots are scaffolded but disabled by default. Set enabled=true and populate NEXT_PUBLIC_GOOGLE_ADSENSE_CLIENT to activate."
+}

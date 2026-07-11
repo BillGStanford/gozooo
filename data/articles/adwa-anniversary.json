@@ -1,0 +1,41 @@
+{
+  "id": "art-0004",
+  "slug": "adwa-and-the-material-basis-of-sovereignty",
+  "category": "history",
+  "tags": ["adwa", "sovereignty", "anti-colonialism"],
+  "publishedAt": "2026-06-20T09:00:00+03:00",
+  "updatedAt": "2026-06-20T09:00:00+03:00",
+  "featured": false,
+  "breaking": false,
+  "editorsPick": true,
+  "readingTime": 8,
+  "authorId": "sidoc-haytu",
+  "thumbnail": "/images/articles/adwa-thumb.jpg",
+  "coverImage": "/images/articles/adwa-cover.jpg",
+  "gallery": [],
+  "video": null,
+  "translations": {
+    "en": {
+      "title": "Adwa and the Material Basis of Sovereignty",
+      "excerpt": "The 1896 victory is remembered as a symbol. It should also be studied as a case of organized material preparation.",
+      "content": [
+        { "type": "paragraph", "text": "Adwa is taught as a moment of national pride, and it is that. It is less often taught as a case study in what sustained sovereignty actually requires: arms procurement, unified command, and the political work of coalition before the battlefield." },
+        { "type": "quote", "text": "A victory remembered only as spirit, and never as method, teaches the wrong lesson to the next generation.", "attribution": "Editorial Collective" },
+        { "type": "heading", "level": 2, "text": "Coalition Before Confrontation" },
+        { "type": "paragraph", "text": "The regional and diplomatic coordination that preceded the battle is frequently compressed out of popular memory in favor of the battle itself. That compression has consequences for how sovereignty is defended today." },
+        { "type": "paragraph", "text": "The lesson for the present is not nostalgic. It is that material preparation, not declarations of pride alone, is what sovereignty is built from." }
+      ]
+    },
+    "am": {
+      "title": "አድዋ እና የሉዓላዊነት ቁሳዊ መሰረት",
+      "excerpt": "የ1896ቱ ድል እንደ ምልክት ይታወሳል። እንደ የተደራጀ ቁሳዊ ዝግጅት ጉዳይ ሆኖም ሊጠና ይገባዋል።",
+      "content": [
+        { "type": "paragraph", "text": "አድዋ የብሄራዊ ኩራት ወቅት ተደርጎ ይማራል፣ እና እንደዛው ነው። ዘላቂ ሉዓላዊነት በእውኑ የሚጠይቀውን ነገር እንደ ጉዳይ ጥናት ግን ብዙ ጊዜ አይማርም፦ የጦር መሳሪያ ግዢ፣ የተዋሃደ ትዕዛዝ እና ከጦር ሜዳ በፊት የተደረገ የጥምረት ፖለቲካዊ ስራ።" },
+        { "type": "quote", "text": "እንደ መንፈስ ብቻ የሚታወስ እና በፍጹም እንደ ዘዴ ያልታወሰ ድል ለሚቀጥለው ትውልድ የተሳሳተ ትምህርት ያስተምራል።", "attribution": "ኤዲቶሪያል ኮሌክቲቭ" },
+        { "type": "heading", "level": 2, "text": "ግጭት ከመድረሱ በፊት ጥምረት" },
+        { "type": "paragraph", "text": "ጦርነቱን ያስቀደመው ክልላዊ እና ዲፕሎማሲያዊ ቅንጅት ብዙ ጊዜ ከጦርነቱ ራሱ ጋር ሲነጻጸር ከታዋቂው ትውስታ ውስጥ ይጨመቃል። ያ መጨመቅ ዛሬ ሉዓላዊነት እንዴት እንደሚከላከል ውጤት አለው።" },
+        { "type": "paragraph", "text": "ለአሁኑ ጊዜ ያለው ትምህርት የናፍቆት አይደለም። ሉዓላዊነት የሚገነባው ከቁሳዊ ዝግጅት እንጂ ከኩራት መግለጫዎች ብቻ አይደለም።" }
+      ]
+    }
+  }
+}

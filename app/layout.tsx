@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { GoogleAnalytics } from '@next/third-parties/google';
 import '@/styles/globals.css';
 import { fontVariables } from '@/lib/fonts';
 import Header from '@/components/layout/Header';
@@ -31,14 +32,20 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="am" className={fontVariables}>
       <body>
         <script
           type="application/ld+json"
           // eslint-disable-next-line react/no-danger
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema()) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organizationSchema()),
+          }}
         />
         <LanguageProvider>
           <ServiceWorkerRegister />
@@ -46,6 +53,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <main id="main-content">{children}</main>
           <Footer />
         </LanguageProvider>
+
+        <GoogleAnalytics gaId="G-ED8FW8LQHS" />
       </body>
     </html>
   );
